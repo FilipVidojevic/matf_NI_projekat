@@ -14,7 +14,6 @@ Drugačiji pristup računanju konvolucije, naspram običnom množenju matrica fi
 <a id = "1">[1]</a>
 L. Y. Stefanus, TU Dresden, June-July, 2018.
 Foundations for Machine Learning
-Proceedings of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
 DOI=https://iccl.inf.tu-dresden.de/w/images/4/4e/Ml-11.pdf
 
 <a id = "2">[2]</a>
